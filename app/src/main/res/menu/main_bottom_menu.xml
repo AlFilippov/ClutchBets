@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_item_basketball"
+        android:icon="@drawable/ic_menu_basketball"
+        android:title="@string/basketball_menu" />
+    <item
+        android:id="@+id/menu_item_soccer_germany"
+        android:icon="@drawable/ic_menu_soccer"
+        android:title="@string/menu_soccer_germany" />
+    <item
+        android:id="@+id/menu_item_soccer"
+        android:enabled="true"
+        android:icon="@drawable/ic_menu_soccer"
+        android:title="@string/menu_soccer" />
+    <item
+        android:id="@+id/menu_item_hockey"
+        android:icon="@drawable/ic_puck_menu"
+        android:title="@string/menu_hockey" />
+
+</menu>

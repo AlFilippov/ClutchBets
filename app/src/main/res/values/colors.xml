@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="white">#fff</color>
+    <color name="blue">#00549e</color>
+    <color name="lightBlue">#EDF6FF</color>
+    <color name="blue60">#9900549e</color>
+    <color name="blueToolBar">#63a4ff</color>
+    <color name="errorState">#FD6DA0</color>
+    <color name="acceptedState">#79DAAB</color>
+    <!--BottomNavFragments-->
+    <color name="black">#000</color>
+    <color name="color_not_selected">#999999</color>
+    <color name="color_company_user">#9FA0A7</color>
+    <color name="color_save_button">#C4B3A2</color>
+    <color name="color_title_profile">#2A2A2A</color>
+    <color name="color_background_edittext">#E7E8EB</color>
+</resources>
